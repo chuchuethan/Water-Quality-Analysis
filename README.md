@@ -17,10 +17,9 @@ An analysis of messy government data on different water sites and their attribut
 - Lack of context on the dataset:
   - Are S. Poe and Susan Poe the same person?
   - Are water sites "B" and "Bay" different?
-- handling null values in quantitative fields:
+- Handling null values in quantitative fields:
   - What should we replace null values with in columns like pH, water_depth_m, etc.?
 - Separating names of field tech reporters
   - Field tech reporters were recorded in a comma-separated fashion, so combined with cleaning the names themselves, it was challenging splitting up these fields by comma while also having to account for the fact that some names had spaces, periods, etc.
 
-# Link to Tableau Dashboard
-[Link](https://public.tableau.com/views/waterquality_17665457367980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# [Link to Tableau Dashboard](https://public.tableau.com/views/waterquality_17665457367980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
